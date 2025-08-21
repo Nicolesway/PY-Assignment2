@@ -1,0 +1,5 @@
+Python is fun
+I love learning
+File handling is essential
+Practice makes perfect
+Keep coding every day
